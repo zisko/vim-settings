@@ -5,5 +5,5 @@ echo "installing .vim from ${DIR}/vim to ~/.vim"
 mv ~/.vim ~/.vim.back
 ditto $DIR/vim ~/.vim
 echo "installing .vimrc from ${DIR}/vimrc to ~/.vimrc"
-mv ~/.vimrc.back
+mv ~/.vimrc ~/.vimrc.back
 ditto $DIR/vimrc ~/.vimrc
