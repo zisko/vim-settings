@@ -5,8 +5,29 @@
 	],
 	"installed_packages":
 	[
+		"AutoSpell",
+		"CMake",
+		"Flask Completions",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"HTMLBeautify",
 		"INI",
+		"Jedi - Python autocompletion",
+		"Jinja2",
+		"Monokai - Spacegray",
 		"Package Control",
-		"Theme - Brogrammer"
+		"Python 3",
+		"Python PEP8 Autoformat",
+		"Python Pretty Print",
+		"Rust Enhanced",
+		"RustCodeFormatter",
+		"SHARC or Blackfin DSP assembly highlighting",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Theme - Brogrammer",
+		"Theme - Soda",
+		"Theme - Tech49"
 	]
 }

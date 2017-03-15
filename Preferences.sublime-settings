@@ -1,10 +1,20 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_face": "Source Code Pro",
-	"font_size": 12,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Brogrammer.sublime-theme"
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

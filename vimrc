@@ -2,8 +2,14 @@
 set nocompatible
 syntax on
 colorscheme monokai
-call pathogen#helptags()
-call pathogen#infect()
+filetype off
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'Valloric/YouCompleteMe'
+call vundle#end()            " required
+filetype plugin indent on    " required
 set number
 set nowrap
 set tabstop=4
