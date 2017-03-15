@@ -1,9 +1,10 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai - Spacegray (SL).tmTheme",
 	"font_face": "Source Code Pro",
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"RustCodeFormatter",
 		"Vintage"
 	],
 	"rulers":
