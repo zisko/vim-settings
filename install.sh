@@ -14,4 +14,4 @@ ditto $DIR/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ 
 
 echo "installing sublime plugin manifest from ${DIR}/Package Control.sublime-settings to ~/.vimrc"
 mv ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Package\ Control.sublime-settings.back
-ditto $DIR/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Package\ Control.sublime-settings
+ditto $DIR/Package\ Control.sublime-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Package\ Control.sublime-settings
